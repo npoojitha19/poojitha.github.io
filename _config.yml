@@ -2,18 +2,17 @@ title: "Poojitha Chowdary Nethi"
 email: "npoojitha19@gmail.com"
 description: >-
   Java Full Stack Developer | Portfolio
-baseurl: "" # Leave this empty for user.github.io
+baseurl: ""
 url: "https://poojitha.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
 
-# Social links
 author:
   name   : "Poojitha Chowdary Nethi"
-  avatar : "" # You can link to an image later
+  avatar : "" # Optional: Add image link
   bio    : "Java Full Stack Developer | 8+ Years Experience"
   location: "USA"
   links:
@@ -22,12 +21,11 @@ author:
       url: "mailto:npoojitha19@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/your-link"
+      url: "https://linkedin.com/in/your-link"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/your-github"
 
-# Enable site navigation
 defaults:
   - scope:
       path: ""
