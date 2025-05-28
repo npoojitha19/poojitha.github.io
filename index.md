@@ -1,123 +1,40 @@
+Hello, I'm Poojitha
+
+I am a Java Full Stack Developer with over 8 years of experience in backend and frontend development. My expertise lies in building scalable and secure microservices, RESTful APIs, and responsive web interfaces using Java, Spring Boot, React, Angular, AWS, and more.
+
 ---
-layout: default
+
+## 🔧 Core Skills
+
+- **Languages**: Java, TypeScript, SQL, HTML5, CSS3, JavaScript (ES6)
+- **Frontend**: React.js, Redux, Angular, Bootstrap, Material UI
+- **Backend**: Spring Boot, REST APIs, Microservices, JPA/Hibernate
+- **Cloud**: AWS (EC2, S3, RDS), Azure (AKS), Docker, Kubernetes
+- **DevOps**: Jenkins, GitLab CI/CD, Terraform
+- **Databases**: MongoDB, PostgreSQL, MySQL, DynamoDB, Oracle
+- **Security**: OAuth 2.0, JWT, Spring Security
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🏢 Experience Highlights
 
-[Link to another page](./another-page.html).
+### AIG (2023 – Present)
+- Built microservices in Java and Go, integrated OAuth2, JWT, and AWS services.
+- Developed Angular web apps with WCAG 2.1 accessibility.
+- Implemented real-time Kafka messaging and Dockerized deployments.
 
-There should be whitespace between paragraphs.
+### Wells Fargo (2022 – 2023)
+- Delivered secure APIs and modern banking UI with React and Angular.
+- Used Jenkins and Kubernetes for efficient CI/CD and scaling.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### HCL Technologies (2018 – 2021)
+- Migrated legacy airline systems to cloud-native architecture using Spring Boot and Angular.
+- Built event-driven solutions with Kafka and AWS Lambda.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🏅 Certifications
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Administrator (CKA)
+- Java & SQL – HackerRank
