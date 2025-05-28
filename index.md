@@ -1,42 +1,55 @@
 ---
-layout: default
-title: "Poojitha Chowdary Nethi"
+layout: splash
+title: "Welcome"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: https://source.unsplash.com/1600x900/?technology,code
+  actions:
+    - label: "Contact Me"
+      url: "/about/"
+excerpt: "Java Full Stack Developer with 8+ Years of Experience in scalable, secure web applications."
 ---
 
-# 👋 Hi, I'm Poojitha Chowdary Nethi
+# Hello, I'm Poojitha
 
-**Java Full Stack Developer | 8+ Years Experience**
-
-📧 npoojitha19@gmail.com  
-📱 +1 (469) 396-1953  
-🔗 [LinkedIn](your-link-here)
+I am a Java Full Stack Developer with over 8 years of experience in backend and frontend development. My expertise lies in building scalable and secure microservices, RESTful APIs, and responsive web interfaces using Java, Spring Boot, React, Angular, AWS, and more.
 
 ---
 
-## 💡 About Me
+## 🔧 Core Skills
 
-Experienced Full Stack Developer with a strong foundation in Java, Spring Boot, React, AWS, and Microservices...
+- **Languages**: Java, TypeScript, SQL, HTML5, CSS3, JavaScript (ES6)
+- **Frontend**: React.js, Redux, Angular, Bootstrap, Material UI
+- **Backend**: Spring Boot, REST APIs, Microservices, JPA/Hibernate
+- **Cloud**: AWS (EC2, S3, RDS), Azure (AKS), Docker, Kubernetes
+- **DevOps**: Jenkins, GitLab CI/CD, Terraform
+- **Databases**: MongoDB, PostgreSQL, MySQL, DynamoDB, Oracle
+- **Security**: OAuth 2.0, JWT, Spring Security
 
-## 🧠 Skills
+---
 
-- Java, Spring Boot, REST APIs, React, Angular
-- AWS, Azure, Docker, Kubernetes
-- MongoDB, PostgreSQL, Jenkins, Kafka, Git
+## 🏢 Experience Highlights
 
-## 🛠️ Experience
+### AIG (2023 – Present)
+- Built microservices in Java and Go, integrated OAuth2, JWT, and AWS services.
+- Developed Angular web apps with WCAG 2.1 accessibility.
+- Implemented real-time Kafka messaging and Dockerized deployments.
 
-### AIG | Java Full Stack Developer  
-*Jul 2023 – Present*
+### Wells Fargo (2022 – 2023)
+- Delivered secure APIs and modern banking UI with React and Angular.
+- Used Jenkins and Kubernetes for efficient CI/CD and scaling.
 
-- Built microservices with Java and Go
-- Implemented OAuth 2.0, JWT, AWS Lambda, Kafka...
+### HCL Technologies (2018 – 2021)
+- Migrated legacy airline systems to cloud-native architecture using Spring Boot and Angular.
+- Built event-driven solutions with Kafka and AWS Lambda.
 
-### Wells Fargo | Java Full Stack Developer  
-*Jan 2022 – Jun 2023*
+---
 
-- Created secure banking APIs, Angular UIs, CI/CD pipelines
+## 🏅 Certifications
 
-## 🎓 Certifications
+- AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Administrator (CKA)
+- Java & SQL – HackerRank
 
-- AWS Certified Solutions Architect – Associate  
-- CKA – Certified Kubernetes Administrator  
